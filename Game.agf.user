@@ -19,7 +19,7 @@
   </Component>
   <WorkspaceState>
     <LastBuildConfiguration>Debug</LastBuildConfiguration>
-    <LastBuildGameFileName>DataFile=TG_Tutorial,Windows=TG_Tutorial,</LastBuildGameFileName>
+    <LastBuildGameFileName>DataFile=TG_Tutorial,Windows=TG_Tutorial,_Debug=TG_Tutorial,</LastBuildGameFileName>
     <RequiresRebuild>False</RequiresRebuild>
   </WorkspaceState>
 </AGSEditorUserData>
