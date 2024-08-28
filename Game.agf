@@ -12,7 +12,7 @@
       <AntiAliasFonts>False</AntiAliasFonts>
       <AntiGlideMode>True</AntiGlideMode>
       <AttachDataToExe>False</AttachDataToExe>
-      <AudioIndexer>1</AudioIndexer>
+      <AudioIndexer>2</AudioIndexer>
       <AutoMoveInWalkMode>True</AutoMoveInWalkMode>
       <BackwardsText>False</BackwardsText>
       <BuildTargets>Windows</BuildTargets>
@@ -5266,6 +5266,19 @@ See KeyboardMovement.txt for details.
                 <SourceFileName>C:\Users\felec\Downloads\486660__thepodcastdoctor__diesel-horn-02.wav</SourceFileName>
                 <Type>3</Type>
                 <FileLastModifiedDate>2024-08-26 02:48:49Z</FileLastModifiedDate>
+              </AudioClip>
+              <AudioClip>
+                <BundlingType>InGameEXE</BundlingType>
+                <DefaultPriority>Inherit</DefaultPriority>
+                <DefaultRepeat>Inherit</DefaultRepeat>
+                <DefaultVolume>-1</DefaultVolume>
+                <FileType>MP3</FileType>
+                <ID>1</ID>
+                <Index>2</Index>
+                <ScriptName>aSaw01</ScriptName>
+                <SourceFileName>AudioCache/saw01.mp3</SourceFileName>
+                <Type>3</Type>
+                <FileLastModifiedDate>2024-08-28 15:23:44Z</FileLastModifiedDate>
               </AudioClip>
             </AudioClips>
             <AudioClipFolder>
