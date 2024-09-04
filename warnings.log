@@ -1,1 +1,1 @@
-Game : (room:2) Dialog: all options have been turned off, stopping dialog.
+Game : (room:2)[R 29] SetObjectFrame: invalid loop number used for view 3 (10, range is 0 - 0)
